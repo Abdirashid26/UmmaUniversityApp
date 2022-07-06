@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538621664675",
+    "project_id": "ummaapp-144be",
+    "storage_bucket": "ummaapp-144be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538621664675:android:9f629beb61849080d48e16",
+        "android_client_info": {
+          "package_name": "com.example.ummauniversityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538621664675-crpkb2burpjcm4t68qqtpt7dbpp5didq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdvWF8mJ1vMt9LwrPsqbM59kfgKl5RoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538621664675-crpkb2burpjcm4t68qqtpt7dbpp5didq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

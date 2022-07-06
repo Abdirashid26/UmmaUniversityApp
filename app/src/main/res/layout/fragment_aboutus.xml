@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Aboutus">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Umma Contacts"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/uberbold"
+        android:textColor="@color/primary"
+        />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:text="Located along Kajiado – Namanga Road in Kajiado County Box 713-01100, Kajiado, Kenya.Mobile-number:+254703969000"
+            android:fontFamily="@font/uberbold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Achievements"
+            android:textSize="20dp"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/primary"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            android:text="We provide quality university education and training through nurturing and promoting creative and innovative, transmission and integration of knowledge and technology in order to produce holistic graduates of high value and integrity."
+            android:fontFamily="@font/uberbold"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:layout_marginVertical="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Numbers"
+            android:textSize="20dp"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/primary"
+            android:textAlignment="center"
+            />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:src="@drawable/ic_baseline_account_balance_24"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Our Schools : 5"
+            android:textSize="15dp"
+            android:layout_marginVertical="5dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/secondary"
+            android:textAlignment="center"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:src="@drawable/ic_baseline_school_24"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Graduations : 5"
+            android:textSize="15dp"
+            android:layout_marginVertical="5dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/secondary"
+            android:textAlignment="center"
+            />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:src="@drawable/ic_baseline_people_24"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Students : 4,500+"
+            android:textSize="15dp"
+            android:layout_marginVertical="5dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/secondary"
+            android:textAlignment="center"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Developer"
+            android:textSize="20dp"
+            android:layout_marginVertical="10dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/primary"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Email : anzifai6387@gmail.com"
+            android:textSize="15dp"
+            android:layout_marginVertical="5dp"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/secondary"
+            android:textAlignment="center"
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+    </ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/gallery"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_feed_24"
+        android:title="Newsfeed"/>
+
+    <item
+        android:id="@+id/faculty"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="Faculty"/>
+
+    <item
+        android:id="@+id/newsfeed"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_image_24"
+        android:title="Gallery"/>
+
+    <item
+        android:id="@+id/aboutus"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title="About us"/>
+
+</menu>

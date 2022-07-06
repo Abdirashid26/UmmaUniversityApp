@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".main">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Umma University"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/primary"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fostering Knowledge and innovation"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="3dp"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/uberbold"
+            android:textColor="@color/secondary"
+            />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/ummauniversity"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Umma University was established to increase access to quality higher education to diverse individuals and communities. Umma University is ‘the University of the People’ with the objective of delivering knowledge in various platforms from traditional classroom learning, Distance and Open Learning, On-Line courses, and learning using modern technology.
+The university combines Islamic moral and ethical orientation with practical learning about business and technology with the aim of nurturing scholars with varied experiences and leaders with ethical approaches to leadership."
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="History"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/uberbold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The University traces its origins to 1997 when it operated as the Thika College for Sharia and Islamic Studies. In 2001, the Ministry of Education, Science and Technology registered Thika College for Sharia and Islamic Studies to offer Diploma Study Programmes in Sharia and Islamic Studies.
+
+In 2007, the then Commission for Higher Education validated the Diploma Programmes of Thika College and granted authority to collaborate with the International University of Africa, Khartoum, Sudan to offer two undergraduate Degree Study Programmes namely; Bachelor of Arts in Islamic Sharia and Bachelor of Arts in Islamic Studies.
+
+On 23rd July 2013, the Kenyan National Regulatory body, the Commission for Higher Education granted the Thika College for Sharia and Islamic Studies a Letter of Interim Authority to operate as Umma University. In August 2014, the University Council relocated the University from Thika to Kajiado upon recommendation from the Commission.
+
+Subsequently, the University was awarded a Charter by H.E President Uhuru Kenyatta on 18th October 2019."
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Vision"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/uberbold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The University of excellence in higher education and innovative technology based on high moral values."
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Mission"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/uberbold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To provide quality university education and training through nurturing and promoting creative and innovative, transmission and integration of knowledge and technology in order to produce holistic graduates of high value and integrity."
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Our Philosophy"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/uberbold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The philosophy of Umma University is based on Islamic values with emphasis on total development of individual talent, moral rectitude, hard work and competitiveness so as to encourage excellence in all spheres of life.
+
+It is also based on dedication to the furtherance of the Islamic principles while promoting peaceful co-existence between people who profess different faiths"
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Our Core Values"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/primary"
+            android:fontFamily="@font/uberbold"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Umma University upholds the following core values:
+
+
+
+Integrity: The University strives to uphold the values of honesty, truthfulness and sincerity, while remaining ethical and fair in all its activities. The University seeks to maintain a professional outlook while conducting business. The time and effort put into every programme and activity is true to the mission of providing quality university education and training in a professional manner.
+
+
+
+Partnership: The success of the University is dependent upon the partnerships forged. The intellectual capacity and passion of all staff are the key drivers in achieving partnerships with the relevant customers/clients."
+            android:layout_marginHorizontal="20dp"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:fontFamily="@font/uber"
+
+            />
+
+
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

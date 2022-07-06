@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Newsfeed">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingVertical="20dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical">
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp"
+        android:textColor="@color/primary"
+        android:fontFamily="@font/uberbold"
+        android:text="Umma Images" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="'Look deep into nature,  understand everything better. '"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="3dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/uberbold"
+        android:textColor="@color/secondary"
+        />
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please Check your wifi connnection !"
+            android:fontFamily="@font/uberbold"
+            android:textSize="20dp"
+            android:textColor="@color/primary"
+            android:id="@+id/connection"
+            android:visibility="visible"
+            android:textAlignment="center"
+            />
+
+<!--    cards  -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="60dp"
+        >
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/feeds"
+            >
+
+
+
+        </ListView>
+
+
+
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
