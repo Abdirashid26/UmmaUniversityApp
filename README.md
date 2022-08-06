@@ -22,10 +22,11 @@ The following **required** functionality is completed:
 Here are the pages in the App:
 
  
+<img src="https://user-images.githubusercontent.com/49816777/183243535-4bb8169c-039a-4bb3-95d1-187790b645cc.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/49816777/183243529-368208a3-b54d-4477-8bed-9d8bcd906b54.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/49816777/183243531-bf37935e-5913-4d93-b500-8a2dfd8971cf.jpg" width="200">
 <img src="https://user-images.githubusercontent.com/49816777/183243533-4eb1ce7c-6873-4302-9ba0-0b4ede17dcd1.jpg" width="200">
-<img src="https://user-images.githubusercontent.com/49816777/183243535-4bb8169c-039a-4bb3-95d1-187790b645cc.jpg" width="200">
+
 
 
 
